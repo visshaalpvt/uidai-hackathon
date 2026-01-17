@@ -1,0 +1,229 @@
+month,state,district,pincode,total_enrolments,enrolments_mom_growth,demand_level,risk_level,flag_reason
+2025-09-01,Tamil Nadu,Chennai,600012,166,65.99999999999999,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600012,165,19.565217391304344,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-07-01,Tamil Nadu,Chennai,600119,162,604.3478260869565,High,High,Isolation Forest Anomaly | High-Risk Growth | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600001,142,129.03225806451616,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600021,140,59.09090909090908,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600012,138,-16.867469879518072,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600021,137,107.57575757575756,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600001,134,83.56164383561644,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600118,133,111.11111111111111,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-07-01,Tamil Nadu,Chennai,600028,130,293.93939393939394,High,Medium,Isolation Forest Anomaly | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600039,128,120.6896551724138,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600118,117,85.71428571428572,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600042,116,131.99999999999997,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600039,111,65.67164179104476,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600081,108,61.19402985074627,High,Normal, | High-Demand Area
+2025-07-01,Tamil Nadu,Chennai,600115,108,1100.0,Medium,High,Isolation Forest Anomaly | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600012,100,0.0,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600004,100,127.2727272727273,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600078,97,53.968253968253975,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600042,93,25.67567567567568,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600021,88,-35.76642335766424,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600005,87,67.3076923076923,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600001,86,-35.820895522388064,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600005,85,136.11111111111111,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600021,82,-41.42857142857142,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600081,81,55.76923076923077,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600012,78,-52.727272727272734,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600078,76,-21.649484536082475,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600004,75,87.5,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600015,75,47.058823529411775,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600042,74,-36.206896551724135,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600023,74,85.00000000000001,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600015,73,78.04878048780488,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600001,73,-48.59154929577465,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600041,69,146.42857142857144,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600002,69,40.81632653061224,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600002,69,46.80851063829788,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600118,68,-41.880341880341874,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600094,67,123.33333333333334,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600039,67,-47.65625,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600081,67,-17.28395061728395,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600028,66,175.0,High,Medium, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600014,66,135.71428571428572,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600021,66,0.0,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600042,65,-30.107526881720425,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600017,64,72.97297297297298,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600081,64,-40.74074074074075,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600118,63,-52.63157894736843,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600078,63,61.53846153846154,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600118,63,0.0,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600078,63,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600001,62,0.0,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600082,62,63.1578947368421,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600106,62,63.1578947368421,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600023,60,46.34146341463414,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600040,59,110.71428571428572,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600013,59,118.5185185185185,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600011,59,17.999999999999993,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600039,59,-46.84684684684685,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600040,59,84.375,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600039,58,0.0,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600083,58,123.07692307692308,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600083,57,137.5,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600013,57,83.87096774193547,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600028,56,-56.92307692307692,High,Medium, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600041,55,14.583333333333323,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600100,55,161.9047619047619,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600092,53,130.43478260869566,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600005,52,-38.8235294117647,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600081,52,0.0,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600119,51,-68.5185185185185,High,High, | High-Risk Growth | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600015,51,0.0,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600011,51,15.909090909090915,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600042,50,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600011,50,0.0,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600014,49,11.363636363636353,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600002,49,-28.985507246376805,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600041,48,-30.434782608695656,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600024,48,71.42857142857142,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600002,47,0.0,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600004,47,-53.0,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600011,47,-7.843137254901967,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600033,47,123.8095238095238,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600017,46,48.38709677419355,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600033,45,95.65217391304348,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600082,45,7.14285714285714,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600092,45,66.66666666666667,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600011,44,-25.42372881355932,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600028,44,-33.333333333333336,High,Medium, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600094,44,33.33333333333333,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600004,44,-41.333333333333336,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600014,44,-33.333333333333336,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600100,42,10.526315789473696,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600082,42,-32.25806451612904,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600013,42,-26.315789473684216,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600015,41,-45.333333333333336,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600106,41,70.83333333333333,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600002,41,-40.57971014492754,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600023,41,-44.5945945945946,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600024,40,90.47619047619048,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600004,40,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600023,40,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600078,39,0.0,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600106,38,-7.317073170731703,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600005,38,-56.32183908045977,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600082,38,0.0,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600100,38,-30.909090909090907,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600017,37,0.0,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600006,36,414.28571428571433,Medium,Medium,Isolation Forest Anomaly
+2025-12-01,Tamil Nadu,Chennai,600023,36,-40.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600005,36,0.0,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600014,36,-26.53061224489796,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600012,35,-55.12820512820513,High,Normal,Isolation Forest Anomaly | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600083,33,-43.103448275862064,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600094,33,-50.74626865671642,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600119,33,10.000000000000009,High,High, | High-Risk Growth | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600028,33,0.0,High,Medium, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600040,32,0.0,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600082,32,-28.88888888888889,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600013,31,-47.45762711864406,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600118,31,-54.41176470588236,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600119,31,-6.060606060606055,High,High, | High-Risk Growth | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600017,31,-51.5625,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600015,31,-57.53424657534247,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600094,31,-29.54545454545454,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600119,30,-41.17647058823529,High,High, | High-Risk Growth | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600094,30,0.0,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600001,29,-66.27906976744187,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600041,28,-49.09090909090909,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600040,28,-52.54237288135592,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600021,28,-65.85365853658536,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600041,28,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600014,28,0.0,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600024,28,-30.000000000000004,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600092,27,-40.0,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600092,27,-49.0566037735849,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600106,27,-56.4516129032258,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600017,27,-41.30434782608695,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600013,27,0.0,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600078,26,-65.78947368421053,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600083,26,-54.38596491228071,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600024,25,-47.91666666666666,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600083,24,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600106,24,0.0,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600033,24,-46.66666666666666,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600028,24,-57.14285714285714,High,Medium, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600092,23,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600119,23,0.0,High,High, | High-Risk Growth | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600040,23,-61.01694915254237,High,Normal, | High-Demand Area
+2025-10-01,Tamil Nadu,Chennai,600033,23,-51.06382978723405,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600081,22,-65.625,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600033,21,0.0,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600042,21,-67.6923076923077,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600100,21,0.0,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600024,21,0.0,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600100,20,5.263157894736836,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600100,19,-54.761904761904766,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600005,18,-52.63157894736843,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600014,18,-50.0,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600035,16,220.00000000000003,Medium,High, | High-Risk Growth
+2025-09-01,Tamil Nadu,Chennai,600115,16,-85.18518518518519,Medium,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600083,15,-54.54545454545454,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600023,15,-58.33333333333333,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600115,15,114.28571428571428,Medium,High, | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600019,15,650.0,Low,High,Isolation Forest Anomaly | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600041,14,-50.0,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600086,13,550.0,Low,High,Isolation Forest Anomaly | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600095,13,550.0,Low,High,Isolation Forest Anomaly | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600039,13,-77.96610169491525,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600040,13,-43.47826086956522,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600082,13,-59.375,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600004,13,-72.34042553191489,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600011,13,-72.34042553191489,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600028,13,-70.45454545454545,High,Medium, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600015,13,-58.06451612903225,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600092,12,-55.55555555555556,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600024,12,-52.0,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600119,12,-61.29032258064516,High,High, | High-Risk Growth | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600017,12,-55.55555555555556,High,Normal, | High-Demand Area
+2025-12-01,Tamil Nadu,Chennai,600115,12,-20.0,Medium,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600094,11,-64.51612903225806,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600002,11,-73.17073170731707,High,Normal, | High-Demand Area
+2025-06-01,Tamil Nadu,Chennai,600115,9,0.0,Medium,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600106,9,-66.66666666666667,High,Normal, | High-Demand Area
+2026-01-01,Tamil Nadu,Chennai,600013,9,-78.57142857142857,High,Normal, | High-Demand Area
+2025-11-01,Tamil Nadu,Chennai,600086,9,80.0,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600035,9,12.5,Medium,High, | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600088,9,50.0,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600088,8,-11.111111111111116,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600033,8,-66.66666666666667,High,Normal, | High-Demand Area
+2025-09-01,Tamil Nadu,Chennai,600061,8,700.0,Low,High,Isolation Forest Anomaly | High-Risk Growth
+2025-09-01,Tamil Nadu,Chennai,600019,8,300.0,Low,High, | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600035,8,100.0,Medium,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600115,7,-56.25,Medium,High, | High-Risk Growth
+2025-09-01,Tamil Nadu,Chennai,600095,7,0.0,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600019,7,-53.333333333333336,Low,High, | High-Risk Growth
+2025-09-01,Tamil Nadu,Chennai,600088,7,600.0,Low,High,Isolation Forest Anomaly | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600088,6,-14.28571428571429,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600061,6,-25.0,Low,High, | High-Risk Growth
+2025-09-01,Tamil Nadu,Chennai,600016,6,500.0,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600061,5,150.0,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600086,5,-61.53846153846154,Low,High, | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600035,5,0.0,Medium,High, | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600061,5,-16.666666666666664,Low,High, | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600053,5,400.0,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600035,4,-75.0,Medium,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600095,3,50.0,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600019,3,-57.14285714285714,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600053,3,-40.0,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600088,3,-62.5,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600086,3,-66.66666666666667,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600086,2,-33.333333333333336,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600016,2,-66.66666666666667,Low,High, | High-Risk Growth
+2025-11-01,Tamil Nadu,Chennai,600016,2,0.0,Low,High, | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600086,2,0.0,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600115,2,-83.33333333333334,Medium,High, | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600019,2,0.0,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600019,2,-75.0,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600061,2,-60.0,Low,High, | High-Risk Growth
+2025-09-01,Tamil Nadu,Chennai,600053,2,0.0,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600095,2,-84.61538461538461,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600095,2,-71.42857142857143,Low,High, | High-Risk Growth
+2026-01-01,Tamil Nadu,Chennai,600016,1,0.0,Low,High, | High-Risk Growth
+2025-12-01,Tamil Nadu,Chennai,600016,1,-50.0,Low,High, | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600016,1,0.0,Low,High, | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600088,1,0.0,Low,High, | High-Risk Growth
+2025-10-01,Tamil Nadu,Chennai,600053,1,-50.0,Low,High, | High-Risk Growth
+2025-06-01,Tamil Nadu,Chennai,600061,1,0.0,Low,High, | High-Risk Growth

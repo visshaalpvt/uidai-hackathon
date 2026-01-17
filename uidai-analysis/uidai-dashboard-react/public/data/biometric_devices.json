@@ -1,0 +1,110 @@
+[
+  {
+    "device_name": "Morpho MSO 1300 E3",
+    "manufacturer": "IDEMIA",
+    "model": "MSO 1300 E3",
+    "total_attempts": 1250000,
+    "successful_attempts": 1187500,
+    "failed_attempts": 62500,
+    "avg_response_time_ms": 450
+  },
+  {
+    "device_name": "Mantra MFS100",
+    "manufacturer": "Mantra Softech",
+    "model": "MFS100",
+    "total_attempts": 980000,
+    "successful_attempts": 901600,
+    "failed_attempts": 78400,
+    "avg_response_time_ms": 520
+  },
+  {
+    "device_name": "Startek FM220",
+    "manufacturer": "Startek",
+    "model": "FM220",
+    "total_attempts": 850000,
+    "successful_attempts": 765000,
+    "failed_attempts": 85000,
+    "avg_response_time_ms": 610
+  },
+  {
+    "device_name": "SecuGen Hamster Pro 20",
+    "manufacturer": "SecuGen",
+    "model": "Hamster Pro 20",
+    "total_attempts": 720000,
+    "successful_attempts": 698400,
+    "failed_attempts": 21600,
+    "avg_response_time_ms": 380
+  },
+  {
+    "device_name": "Precision PB510",
+    "manufacturer": "Precision Biometric",
+    "model": "PB510",
+    "total_attempts": 650000,
+    "successful_attempts": 591500,
+    "failed_attempts": 58500,
+    "avg_response_time_ms": 580
+  },
+  {
+    "device_name": "Tatvik TMF20",
+    "manufacturer": "Tatvik",
+    "model": "TMF20",
+    "total_attempts": 500000,
+    "successful_attempts": 475000,
+    "failed_attempts": 25000,
+    "avg_response_time_ms": 490
+  },
+  {
+    "device_name": "Next Biometrics NB-3010-U",
+    "manufacturer": "Next Biometrics",
+    "model": "NB-3010-U",
+    "total_attempts": 420000,
+    "successful_attempts": 357000,
+    "failed_attempts": 63000,
+    "avg_response_time_ms": 750
+  },
+  {
+    "device_name": "Access Computech ACPL FM220",
+    "manufacturer": "Access Computech",
+    "model": "ACPL FM220",
+    "total_attempts": 380000,
+    "successful_attempts": 323000,
+    "failed_attempts": 57000,
+    "avg_response_time_ms": 680
+  },
+  {
+    "device_name": "BioEnable nitgen-hamster-dx",
+    "manufacturer": "BioEnable",
+    "model": "Hamster DX",
+    "total_attempts": 310000,
+    "successful_attempts": 294500,
+    "failed_attempts": 15500,
+    "avg_response_time_ms": 410
+  },
+  {
+    "device_name": "3M Cogent CSD 200",
+    "manufacturer": "3M Cogent",
+    "model": "CSD 200",
+    "total_attempts": 250000,
+    "successful_attempts": 242500,
+    "failed_attempts": 7500,
+    "avg_response_time_ms": 350
+  },
+  {
+    "device_name": "Integrated Biometrics Kojak",
+    "manufacturer": "Integrated Biometrics",
+    "model": "Kojak",
+    "total_attempts": 180000,
+    "successful_attempts": 174600,
+    "failed_attempts": 5400,
+    "avg_response_time_ms": 320
+  },
+  {
+    "device_name": "Aratek A600",
+    "manufacturer": "Aratek",
+    "model": "A600",
+    "total_attempts": 150000,
+    "successful_attempts": 127500,
+    "failed_attempts": 22500,
+    "avg_response_time_ms": 720
+  }
+]
